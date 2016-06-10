@@ -1,0 +1,67 @@
+I.DS_Store
+target/
+.classpath
+.project
+.settings/
+*.jar
+*.war
+*.ear
+.metadata
+*.ipr
+*.iws
+*.iml
+.idea/
+.idea_modules/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+ 
+# External tool builders
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+*.launch
+ 
+# CDT-specific
+.cproject
+ 
+# PDT-specific
+.buildpath
+ 
+# sbteclipse plugin 
+.target
+ 
+# TeXlipse plugin
+.texlipse
+ 
+ #Logs
+catalogos-core.log
+catalogos-core.log.*
+sice-colegiacion-web.log
+sice-colegiacion-web.log.*
+sice-colegiacion-web.log
+sice-colegiacion-web.log.*
+seguridad-core.log
+seguridad-core.log.*
+### Gradle ###
+.gradle
+build/
+pe.org.cip.sice.parent.ids
+node_modules/
+sice-gestorflujos-web.log
+#REBEL
+rebel.xml
